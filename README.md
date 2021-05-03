@@ -1,5 +1,13 @@
 # Typescript
 
+```
+brew install node
+brew install yarn
+
+npm install -g @angular/cli
+
+```
+
 _Hot, Hot, HOT!_
 
 A directive has come down from Vice President Lossie - our organization needs to know more about **TypeScript** because she has heard that several companies will need dozens of people who know the language.
